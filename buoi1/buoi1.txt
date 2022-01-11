@@ -20,3 +20,4 @@
 + reactjs.org
 + test
 + test tiktok   
++ thêm function
