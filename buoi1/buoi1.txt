@@ -1,0 +1,21 @@
+- lịch học: 3 & 5 19-22
+- thời gian học: 3h
+15' giải lao
+- HTML 4 buổi
++ HTML cơ bản 2 buổi: liệt kê các thẻ hay sử dụng, focus vào những thẻ hay nhầm
++ CSS cơ bản 2 buổi: các thuộc tính, thêm thư viện, animation
++ thực hành: 1 project:figma => test khả năng test giao diện
+- JS: 10 buổi
++ concept cơ bản: khai báo, vòng lặp, toán tử, array, object
++ đi chi tiết vào array object, function
++ làm project: gồm các chức năng thêm, sửa, xóa, tạo mới CURD
+- React: 6 buổi kiến thức cơ bản
+- Project: 4 buổi, làm project thực tế
+
+- tài liệu học:
++ freecodecamp
++ udemy
++ w3school
+- xem hết 1 lượt
++ reactjs.org
+
